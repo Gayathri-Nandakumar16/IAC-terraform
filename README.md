@@ -114,7 +114,7 @@ Screenshots available under `/screenshots/` folder:
 
 Execution Demo (Google Drive Link):
 
-👉 _Coming Soon_
+👉 https://drive.google.com/file/d/1KhuEjRiv1D12StbXuSnZINybXdOX9MXv/view?usp=drive_link
 
 ---
 
